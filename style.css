@@ -81,7 +81,7 @@ body {
 }
 
 .focus:before {
-  content: 'Hello';
+  content: "Hello, I'm Hans Van Gheel";
   -webkit-filter: blur(3px);
           filter: blur(3px);
 }

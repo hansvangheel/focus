@@ -54,7 +54,7 @@ body {
   position: relative;
   width: $componentSize;
   &:before {
-      content: 'Hello';
+      content: "Hello, I'm Hans Van Gheel";
       filter: blur(3px);
   }
   &:after {
